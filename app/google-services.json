@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843718663610",
+    "project_id": "muebleria-4b571",
+    "storage_bucket": "muebleria-4b571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843718663610:android:d5e69ac024d24b5141d183",
+        "android_client_info": {
+          "package_name": "com.fic.practica1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843718663610-evqmj8047cotvbul0gf3l894o07jad4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_pqIow5xH0IMFtWSiQsnxDUnmMZsJSiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843718663610-evqmj8047cotvbul0gf3l894o07jad4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="title_activity_navigation">activity_navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo_texto">Calidad y precio al servicio de nuestros clientes</string>
+    <string name="descripcion">Speedy Chair es una empresa dedicada al mueble y la decoración de su hogar, con los últimos estilos más actuales y modernos y conservando el estilo colonial y la madera natural para gustos más refinados.
+Somos un equipo de profesionales integrado por personas dedicadas al sector del mueble desde hace 2 décadas y comprometidos con el cliente en satisfacer y ofrecer unos productos de primeras calidades y que mejor se adapten a sus gustos y necesidades.
+Nuestra exposición está abierta para usted intentando cuidar al máximo Los detalles que más le gustan y ofreciendo al cliente un trato personalizado y un servicio post-venta garantizando todos nuestros productos.</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="perfil">Perfil</string>
+    <string name="email">E-mail</string>
+    <string name="Nombre_usuario">Nombre de Usuario</string>
+    <string name="Nombre_empleado">Nombre Perfil</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="nuevo">Crear Cuenta</string>
+    <string name="iniciar">Iniciar Sesion</string>
+    <string name="Confirmar">Confirmar Contraseña</string>
+    <string name="Telefono_empleado">Numero de Telefono</string>
+    <string name="Boton_Detalles">Ver detalles de entrega</string>
+    <string name="Nombre_client">Nombre del Cliente:</string>
+    <string name="Direc_client">Direccion de Entrega:</string>
+    <string name="entregas_disp">   Entregas\nDisponibles</string>
+    <string name="acerca_nost">Acerca de\n Nosotros</string>
+    <string name="hist_entregas">Historial\nEntregas</string>
+</resources>
